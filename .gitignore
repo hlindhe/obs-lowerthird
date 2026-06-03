@@ -1,0 +1,8 @@
+# Go build artifacts
+/obs-lowerthird
+*.test
+
+# Local/editor files
+.DS_Store
+.vscode/
+.idea/
